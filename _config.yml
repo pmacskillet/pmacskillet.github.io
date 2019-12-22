@@ -22,7 +22,7 @@ title: Parallels
 landing_header: Hello, World.
 email: pmacs@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The experiences of a travelling programmer.
+  The experiences of a travelling programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pmacskillet
