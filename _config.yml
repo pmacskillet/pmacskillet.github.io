@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hello, World.
+title: Parallels
+landing_header: Hello, World.
 email: pmacs@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   The experiences of a travelling programmer.
@@ -30,6 +31,7 @@ github_username:  pmacskillet
 # Build settings
 #theme: jekyll-theme-clean-blog
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
 # theme: minima
 plugins:
   - jekyll-feed
