@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Southeast Asia Trip - Hong Kong"
+date:   2018-06-01 12:00:30 -0600
+author: Paolo
+background: '/images/brucelee.jpg'
+---
+
+We had an 18 hour layover in Hong Kong, here's what we did with it.

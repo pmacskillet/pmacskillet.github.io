@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Southeast Asia Trip - Bangkok"
+date:   2018-06-09 12:00:30 -0600
+author: Paolo
+background: '/images/jumping-thailand.jpg' 
+---
+
+First large group friend trip - Hong Kong/Thailand/Vietnam
