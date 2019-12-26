@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Southeast Asia Trip - Hong Kong"
+title:  "Hong Kong"
 date:   2018-06-01 12:00:30 -0600
 author: Paolo
 background: '/images/brucelee.jpg'
