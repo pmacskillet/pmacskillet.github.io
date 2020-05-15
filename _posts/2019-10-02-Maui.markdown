@@ -8,7 +8,7 @@ background: '/images/Maui-Point.jpg'
 
 # Maui Adventure
 
-!(Map of Maui)[/images/Maui_region_map_EN.png]
+![Map of Maui](/images/Maui_region_map_EN.png)
 
 ## TL;DR
  - General Info
