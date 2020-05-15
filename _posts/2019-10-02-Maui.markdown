@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bangkok"
+date:   2018-06-09 12:00:30 -0600
+author: Paolo
+background: '/images/Maui-Point.jpg' 
+---
+
+Maui Adventure
