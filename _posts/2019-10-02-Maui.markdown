@@ -10,7 +10,7 @@ background: '/images/Maui-Point.jpg'
 
 <img src="/images/maui-map.png" class="img-fluid" alt="https://commons.wikimedia.org/wiki/File:Maui_region_map_EN.png">
 
-## TL;DR
+## <ins>TL;DR<ins>
 
 ### General Info
 - You absolutely need to rent a car because a lot of the island is remote. You can still Uber/Lyft within populated areas.
