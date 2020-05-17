@@ -10,7 +10,7 @@ background: '/images/Maui-Point.jpg'
 
 <img src="/images/maui-map.png" class="img-fluid" alt="https://commons.wikimedia.org/wiki/File:Maui_region_map_EN.png">
 
-## TL;DR
+## <ins>TL;DR<ins>
 
 ### General Info
 - We spent 2 weeks in Maui and covered all corners of the island.
@@ -36,7 +36,7 @@ background: '/images/Maui-Point.jpg'
 - [Da Kitchen](https://dakitchen.com/) Local Hawaiian dishes.
 - Any of the [local fish](http://kauai-ranch.com/best-fish-to-eat-in-hawaii/) in sushi form.
    
-## Guide
+## <ins>Guide<ins>
  - North Maui
    - You'll probably fly into Kahului. It's the biggest city on the island but there's not much to do here besides eat and stock up on food/supplies.
      - I recommend eating at [Da Kitchen](https://dakitchen.com/). It has delicious local dishes with huge servings at a great price. It was also featured on "Diners Drive-Ins and Dives".
