@@ -8,7 +8,7 @@ background: '/images/Maui-Point.jpg'
 
 # Maui Adventure
 
-<img src="images/maui-map.png" class="img-fluid" alt="https://commons.wikimedia.org/wiki/File:Maui_region_map_EN.png">
+<img src="/images/maui-map.png" class="img-fluid" alt="https://commons.wikimedia.org/wiki/File:Maui_region_map_EN.png">
 
 ## TL;DR
  - General Info
