@@ -17,7 +17,7 @@ background: '/images/Maui-Point.jpg'
    - You absolutely need to rent a car because a lot of the island is remote. You can still Uber/Lyft within populated areas.
  - Top Things You Need to Do
    - Watch the sunrise atop [Mt. Haleakela](https://www.nps.gov/hale/planyourvisit/sunrise-and-sunset.htm). You must sign up in advance. It gets literally freezing cold, so bring a jacket and pants.
-   - Drive the [Road to Hana](https://roadtohana.com/). Drive the full round trip from Kahului along the nourth and south ends of the island, stoping at any point that interest you along the way.
+   - Drive the [Road to Hana](https://roadtohana.com/). Drive the full round trip from Kahului along the north and south ends of the island, stopping at any point that interest you along the way.
    - Camp at [Waiʻānapanapa State Park](https://www.google.com/search?q=wainapana+state+park&rlz=1C1CHBF_enUS878US878&oq=wainapana+state+park&aqs=chrome..69i57j0l7.5449j0j1&sourceid=chrome&ie=UTF-8) and swim in the black sand beaches.
    - Take an [OPEN BAR SUNSET SAIL](https://teralani.net/Maui-Sunset-Sail/original.htm) from Kaanapali
    - Spend some time in the town of [Lahaina](https://www.google.com/search?gs_ssp=eJzj4tDP1TcoNsgqNmD0Ys9JzEjMzEsEADcaBd4&q=lahaina&rlz=1C1CHBF_enUS878US878&oq=Lah&aqs=chrome.1.69i57j46j0l2j46j0l2.3265j0j1&sourceid=chrome&ie=UTF-8). Visit [Maui Brewing Co.](https://www.mbcrestaurants.com/lahaina/) and [Koholā Brewery](https://www.koholabrewery.com/)
@@ -31,7 +31,7 @@ background: '/images/Maui-Point.jpg'
 ## Guide
  - North Maui
    - You'll probably fly into Kahului. It's the biggest city on the island but there's not much to do here besides eat and stock up on food/supplies.
-     - I reccommend eating at [Da Kitchen](https://dakitchen.com/). It has delicious local dishes with huge servings at a great price. It was also featured on "Diners Drive-Ins and Dives".
-     - If you're going to camp rent your gear here.
+     - I recommend eating at [Da Kitchen](https://dakitchen.com/). It has delicious local dishes with huge servings at a great price. It was also featured on "Diners Drive-Ins and Dives".
+     - If you're going to camp, rent your gear here.
  
 MORE CONTENT SOON
