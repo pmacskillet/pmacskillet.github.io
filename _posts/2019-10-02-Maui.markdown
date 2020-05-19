@@ -52,20 +52,24 @@ We stayed in the medium sized (for Maui) coastal town of Lahaina. It features a 
 
 <div class="row">
     <div class="col-md-6">
-        There are some great places to swim on the west side that (from my experience in October) aren't crowded at all. For that picturesque, white sand Hawaiian staple, check out [Slaughterhouse Beach](https://www.google.com/search?rlz=1C1CHBF_enUS878US878&sxsrf=ALeKk01K62iuTYqhJa3DNDngwCpAn335bg%3A1589684752911&ei=EKrAXtv_NsO5tQa245O4Bg&q=slaughterhouse+beach&oq=sl&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnMgQIIxAnMgUIABCRAjIECAAQQzIECAAQQzIECAAQQzIHCAAQgwEQQzIECAAQQzICCAAyAggAOgUIABCDAVDKvQFYzr4BYOHKAWgAcAB4AIABuAGIAeUCkgEDMC4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab). If you're also into snorkeling head just around the bend from Slaughterhouse to [Honolua Bay](https://www.google.com/search?q=honolua+bay&rlz=1C1CHBF_enUS878US878&oq=Honolua+Bay&aqs=chrome.0.0j46j0l6.314j0j4&sourceid=chrome&ie=UTF-8) for a lively reef that's easily accessible from shore.
+      <p>
+        There are some great places to swim on the west side that (from my experience in October) aren't crowded at all. For that picturesque, white sand Hawaiian staple, check out <a href="https://www.google.com/search?rlz=1C1CHBF_enUS878US878&sxsrf=ALeKk01K62iuTYqhJa3DNDngwCpAn335bg%3A1589684752911&ei=EKrAXtv_NsO5tQa245O4Bg&q=slaughterhouse+beach&oq=sl&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnMgQIIxAnMgUIABCRAjIECAAQQzIECAAQQzIECAAQQzIHCAAQgwEQQzIECAAQQzICCAAyAggAOgUIABCDAVDKvQFYzr4BYOHKAWgAcAB4AIABuAGIAeUCkgEDMC4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab">Slaughterhouse Beach</a>. If you're also into snorkeling head just around the bend from Slaughterhouse to (<a href="https://www.google.com/search?q=honolua+bay&rlz=1C1CHBF_enUS878US878&oq=Honolua+Bay&aqs=chrome.0.0j46j0l6.314j0j4&sourceid=chrome&ie=UTF-8">Honolua Bay</a> for a lively reef that's easily accessible from shore.
+      </p>
     </div>
     <div class="col-md-6">
-        <img class="inline-right" src="/images/Slaughterhouse-beach.jpg" alt="Slaughterhouse Beach">
+        <img src="/images/Slaughterhouse-beach.jpg" alt="Slaughterhouse Beach">
     </div>
 </div>
    
 <div class="row">
     <div class="col-md-6">
-        <img class="inline-left" src="/images/west-point-maui.jpg" alt="Sunset Point">
-        <img class="inline-left" src="/images/Sunet-cruise.jpg" alt="Sunset Point">
+        <img src="/images/west-point-maui.jpg" alt="Sunset Point">
+        <img src="/images/Sunet-cruise.jpg" alt="Sunset Point">
     </div>
     <div class="col-md-6">
-        Since you're on the west end, this is the perfect opportunity to watch the sunset. There is a beautiful point that's accessible via a dirt road at [these coordinates](https://www.google.com/maps/@21.0169461,-156.6397424,17z). We also car camped here for one night, and it was a awesome experience. The picture banner on top of this page is from that point. Another great way to watch the sunset is to book an [open bar sunset cruise](https://teralani.net/Maui-Sunset-Sail/original.htm) from Kaanapali. They can get quite pricey, but this is one of the things we wanted to splurge on and it was worth every penny. It was a blast, beautiful, and if you know how to handle your drinking, can be quite economical. 
+      <p>
+        Since you're on the west end, this is the perfect opportunity to watch the sunset. There is a beautiful point that's accessible via a dirt road at <a href="https://www.google.com/maps/@21.0169461,-156.6397424,17z">these coordinates</a>. We also car camped here for one night, and it was a awesome experience. The picture banner on top of this page is from that point. Another great way to watch the sunset is to book an <a href="https://teralani.net/Maui-Sunset-Sail/original.htm">open bar sunset cruise</a> from Kaanapali. They can get quite pricey, but this is one of the things we wanted to splurge on and it was worth every penny. It was a blast, beautiful, and if you know how to handle your drinking, can be quite economical. 
+      </p>
     </div>
 </div>
  
