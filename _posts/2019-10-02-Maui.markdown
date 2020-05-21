@@ -57,14 +57,14 @@ We stayed in the medium sized (for Maui) coastal town of Lahaina. It features a 
       </p>
     </div>
     <div class="col-md-6">
-        <img class="img.inline-right" src="/images/Slaughterhouse-beach.jpg" alt="Slaughterhouse Beach">
+        <img src="/images/Slaughterhouse-beach.jpg" class="img-fluid" alt="Slaughterhouse Beach">
     </div>
 </div>
    
 <div class="row">
     <div class="col-md-6">
-        <img class="img.inline-left" src="/images/west-point-maui.jpg" alt="Sunset Point">
-        <img class="img.inline-left" src="/images/Sunet-cruise.jpg" alt="Sunset Point">
+        <img src="/images/west-point-maui.jpg" class="img-fluid" alt="Sunset Point">
+        <img src="/images/Sunet-cruise.jpg" class="img-fluid" alt="Sunset Point">
     </div>
     <div class="col-md-6">
       <p>
