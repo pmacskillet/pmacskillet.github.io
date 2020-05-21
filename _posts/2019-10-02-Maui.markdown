@@ -52,7 +52,7 @@ We stayed in the medium sized (for Maui) coastal town of Lahaina. It features a 
 
 <div class="container">
         <div class="col-md-12">
-            <div class="image-wrapper float-left pr-3">
+            <div class="image-wrapper float-left pr-3" max-width="75%">
                 <img src="/images/Slaughterhouse-beach.jpg" alt="Slaughterhouse Beach">
             </div>
             <div class="single-post-content-wrapper p-3">
@@ -63,7 +63,7 @@ We stayed in the medium sized (for Maui) coastal town of Lahaina. It features a 
 
 <div class="container">
         <div class="col-md-12">
-            <div class="image-wrapper float-right pl-3">
+            <div class="image-wrapper float-right pl-3" max-width="75%">
                 <img src="/images/west-point-maui.jpg" alt="Sunset Point">
                 <img src="/images/Sunet-cruise.jpg" alt="Sunset Cruise">
             </div>
@@ -73,13 +73,5 @@ We stayed in the medium sized (for Maui) coastal town of Lahaina. It features a 
         </div>
 </div>
 
-<div class="col-md-12">
-  <img src="/images/west-point-maui.jpg" class="pull-left in-par" alt="Sunset Point">
-  <img src="/images/Sunet-cruise.jpg" class="pull-left in-par" alt="Sunset Point">
-    <p>
-        Since you're on the west end, this is the perfect opportunity to watch the sunset. There is a beautiful point that's accessible via a dirt road at <a href="https://www.google.com/maps/@21.0169461,-156.6397424,17z">these coordinates</a>. We also car camped here for one night, and it was a awesome experience. The picture banner on top of this page is from that point. Another great way to watch the sunset is to book an <a href="https://teralani.net/Maui-Sunset-Sail/original.htm">open bar sunset cruise</a> from Kaanapali. They can get quite pricey, but this is one of the things we wanted to splurge on and it was worth every penny. It was a blast, beautiful, and if you know how to handle your drinking, can be quite economical. 
-    </p>
-</div>
- 
 
 MORE DETAILS SOON
